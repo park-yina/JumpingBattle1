@@ -12,7 +12,7 @@
   - 랭킹 동영상 화면에도 랭킹을 보여주어 유저가 랭킹 조회를 쉽게 할 수 있도록 텍스트를 화면에 추가<br>
 # 발생한 트러블 슈팅 및 관련 블로그 게시물
 [CORS 에러 발생 및 해결](https://park-yina.github.io/categories/project/flutter/JumpingBattle/1)
-
+# 이후 리팩토링 방향 및 사안 정리
 # 사용 기술
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
