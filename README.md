@@ -15,7 +15,8 @@
   - video스트리밍 유지<br>
     - 다운로드 횟수 제한 이후에도 스트리밍은 유지<br> 오직 날짜 검증 유효성에 의해서만 스트리밍 중지
 # 발생한 트러블 슈팅 및 관련 블로그 게시물
-[CORS 에러 발생 및 해결](https://park-yina.github.io/categories/project/flutter/JumpingBattle/1)
+[CORS 에러 발생 및 해결](https://park-yina.github.io/categories/project/flutter/JumpingBattle/1)<br>
+[프록시 서버를 통한 문제 해결 및 또다른 문제1](https://park-yina.github.io/categories/project/flutter/JumpingBattle/2)<br>
 # 이후 리팩토링 방향 및 사안 정리
 # 사용 기술
 <div align=center><h1>📚 STACKS</h1></div>
