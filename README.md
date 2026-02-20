@@ -28,7 +28,7 @@
 ## EC2관련 트러블 슛팅
 - EC2인스턴스(UBUNTU T2MIRO)에서 매장을 여러번 변경할 시 느려지는 현상 발견
   ### 해결책1
-  웹소켓의 개수를 여러번 변경시 느려지는 시점(4번째 검색)에 맞추어 개수 제한을 둠<BR>
+  sse 개수를 여러번 변경시 느려지는 시점(4번째 검색)에 맞추어 개수 제한을 둠<BR>
   10%정도의 성능 향상이 되었으나, 여전히 클라이언트의 기대치와는 다른 것을 발견
   ### 해결책2
   이번 프로젝트에서는 주로 큰 작업이 문제 되기 보다 작은 작업이 여러번 일어나는 것이 성능 저하의 원인임을 찾음<BR>
@@ -38,6 +38,7 @@
 [프록시 서버를 통한 문제 해결 및 또다른 문제1](https://park-yina.github.io/categories/project/flutter/JumpingBattle/2)<br>
 [프록시 서버 2탄](https://park-yina.github.io/categories/project/flutter/JumpingBattle/3)
 # 이후 리팩토링 방향 및 사안 정리
+/docs폴더를 통해 의사결정 및 리팩토링에 대한 확인이 가능합니다.
 # 사용 기술
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
